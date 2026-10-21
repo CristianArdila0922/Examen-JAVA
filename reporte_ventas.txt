@@ -1,0 +1,25 @@
+====================================================
+           REPORTE DE VENTAS - TECNOSTORE           
+====================================================
+
+Total de ventas registradas: 3
+
+Monto total vendido (con IVA): $6661,58
+Monto total sin IVA:           $5597,97
+
+----------------------------------------------------
+Detalle de ventas
+----------------------------------------------------
+Venta #1 | Cliente: Ana Torres | Fecha: 21/10/2026 11:38 | Total: $1427,99
+   - Samsung Galaxy S24 x1 = $1199,99
+
+Venta #2 | Cliente: Luis Gómez | Fecha: 21/10/2026 11:38 | Total: $2377,62
+   - Apple iPhone 15 x1 = $1299,00
+   - Xiaomi Redmi Note 13 x2 = $699,00
+
+Venta #3 | Cliente: María Pérez | Fecha: 21/10/2026 11:38 | Total: $2855,98
+   - Samsung Galaxy S24 x2 = $2399,98
+
+====================================================
+Fin del reporte
+====================================================
